@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DrewRoss5
 - I am interested in improving my skills and contributing to FOSS projects.
-- I am currently learning more about C++
+- I am currently learning Java
 - You can reach me at drew.ottesen@protonmail.com.
