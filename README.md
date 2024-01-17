@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @DrewRoss5
-- I am interested in improving my skills and contributing to FOSS projects.
-- I am trying to improve in C++
-- You can reach me at drew.ottesen@protonmail.com.
+## Hi, I'm Drew.
+<ul>
+  <li>🎓 Freshman Computer Science Student</li>
+  <li>
+    <b>Languages I use:</b>
+    <ul>
+      <li>C++</li>
+      <li>Python</li>
+      <li>Java</li>
+    </ul>
+    <li>I am currently learning more about cryptography</li>
+  </li>
+</ul>
