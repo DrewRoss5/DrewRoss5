@@ -8,6 +8,6 @@
       <li>Python</li>
       <li>Java</li>
     </ul>
-    <li>I am currently learning more about cryptography</li>
+    <li>I am currently learning more about cryptography as well as C++</li>
   </li>
 </ul>
