@@ -9,6 +9,6 @@
       <li>Java</li>
     </ul>
     <li>I am strongly interested in Lower Level Programming</li>
-    <li>I am currently learning more about cryptography as well as C++</li>
+    <li>I am currently learning C#</li>
   </li>
 </ul>
