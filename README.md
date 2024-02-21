@@ -6,9 +6,9 @@
     <ul>
       <li>C++</li>
       <li>Python</li>
-      <li>Java</li>
+      <li>Rust</li>
     </ul>
     <li>I am strongly interested in Lower Level Programming</li>
-    <li>I am currently learning Rust</li>
+    <li>I am currently learning more about Rust</li>
   </li>
 </ul>
