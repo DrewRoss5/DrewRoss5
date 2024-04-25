@@ -1,6 +1,6 @@
 ## Hi, I'm Drew.
 <ul>
-  <li>🎓 Freshman Computer Science Student</li>
+  <li>🎓 Sophmore Computer Science Student</li>
   <li>
     <b>Languages I use:</b>
     <ul>
