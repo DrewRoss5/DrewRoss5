@@ -9,6 +9,6 @@
       <li>Rust</li>
     </ul>
     <li>I am strongly interested in Low Level Programming and Cryptography</li>
-    <li>I am currently learning more about Rust</li>
+    <li>I am currently learning more about Backend Web Development</li>
   </li>
 </ul>
