@@ -8,7 +8,7 @@
       <li>Python</li>
       <li>Rust</li>
     </ul>
-    <li>I am strongly interested in Low Level Programming and Cryptography</li>
-    <li>I am currently learning about Java</li>
+    <li>I am strongly interested in Cybersecurity</li>
+    <li>I am currently learning more about C++ and Rust</li>
   </li>
 </ul>
