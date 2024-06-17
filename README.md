@@ -1,10 +1,11 @@
 ## Hi, I'm Drew.
 <ul>
-  <li>🎓 Sophmore Computer Science Student</li>
+  <li>🎓 Sophmore Computer Engineering Student</li>
   <li>
     <b>Languages I use:</b>
     <ul>
       <li>C++</li>
+      <li>C</li>
       <li>Python</li>
       <li>Rust</li>
     </ul>
