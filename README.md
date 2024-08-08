@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi, I'm Drew
 </h1>
-<p align="center">🎓 Sophmore CS student at Weber State University</p>
+<p align="center">🎓 Sophomore CS student at Weber State University</p>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=2077">
 </div>
