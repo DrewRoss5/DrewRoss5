@@ -6,9 +6,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=2077">
 </div>
 <div align="center">
-  <p>📚 I am currently learning more about Rust</p>
+  <p>📚 I am currently learning about OpenCV</p>
 </div>
-<h2 align="center">Languages: </h2>
+<h2 align="center">Languages: </h2> 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
