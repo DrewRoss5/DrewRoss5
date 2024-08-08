@@ -18,7 +18,8 @@
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
-  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"
+  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <h2 align="center">Workflow: </h2>
 <div align="center">
@@ -26,7 +27,7 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white">
 </div>
-<h2>Contact:</h2>
+<h2 align="center">Contact:</h2>
 <div align="center">
   <div>
     <a href="mailto: drew.ottesen@protonmail.com"> <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"></a>
