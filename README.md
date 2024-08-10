@@ -31,6 +31,7 @@
 <div align="center">
   <div>
     <a href="mailto: drew.ottesen@protonmail.com"> <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+    <p>drew.ottesen@protonmail.com</p>
   </div>
   
   
