@@ -6,7 +6,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=2077">
 </div>
 <div align="center">
-  <p>📚 I am currently learning about Webscraping</p>
+  <p>📚 I am currently learning more about C++</p>
 </div>
 <h2 align="center">Languages: </h2> 
 <div align="center">
