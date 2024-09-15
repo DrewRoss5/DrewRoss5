@@ -3,8 +3,13 @@
 </h1>
 <p align="center">🎓 Sophomore CS student at Weber State University</p>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=2077">
+
 </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=2077">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=compact&theme=dark">
+</div>
+
 <div align="center">
   <p>📚 I am currently learning more about C++</p>
 </div>
