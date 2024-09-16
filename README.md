@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <p>📚 I am currently learning more about C++</p>
+  <p>📚 I am currently learning about C++ and Go</p>
 </div>
 <h2 align="center">Languages: </h2> 
 <div align="center">
