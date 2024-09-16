@@ -6,22 +6,15 @@
 
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=compact&theme=dracula">
 </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dracula">
+</div>
+
 
 <div align="center">
   <p>📚 I am currently learning about C++ and Go</p>
-</div>
-<h2 align="center">Languages: </h2> 
-<div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=blue">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <div>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
