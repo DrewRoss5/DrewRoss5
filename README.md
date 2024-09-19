@@ -6,10 +6,10 @@
 
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=compact&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=compact&theme=dark">
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dark">
 </div>
 
 
