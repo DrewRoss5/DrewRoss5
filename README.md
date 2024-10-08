@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>📚 I am currently learning about C++ and systems programming</p>
+  <p>📚 I am currently learning about C++ and Golang</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
