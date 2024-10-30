@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>📚 I am currently learning about Golang</p>
+  <p>📚 I am currently learning about parallel programming</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
