@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>📚 I am currently learning about parallel programming and DSA 📚</p>
+  <p>📚 I am currently learning about Go 📚</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
