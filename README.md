@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>📚 I am currently learning about Artifical Intelligence/Machine Learning 📚</p>
+  <p>📚 I am currently learning more about low-level programming and Computer Architecture 📚</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
