@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>📚 I am currently learning about Computer Architecture and Systems Programming 📚</p>
+  <p>🦀 I am currently learning about Rust 🦀</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
