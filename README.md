@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <p>🦀 I am currently learning about Rust 🦀</p>
+  <p>📚 I am currently learning about Interpreter Design 📚</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
