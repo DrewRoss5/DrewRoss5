@@ -15,6 +15,7 @@
 
 <div align="center">
   <p>📚 I am currently learning about Interpreter Design 📚</p>
+  <p>💡 Experimenting with a new project -- Stay Tuned!</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
