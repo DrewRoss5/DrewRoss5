@@ -11,11 +11,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dark">
 </div>
-
-
 <div align="center">
-  <p>📚 I am currently learning about Interpreter Design and Computer Architecture 📚</p>
-  <p>💡 Experimenting with a new project -- Stay Tuned!</p>
+  <p>📚 I am currently learning about Interpreter Design</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
