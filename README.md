@@ -13,7 +13,7 @@
 </div>
 <div align="center">
   <p>📚 I am currently learning about Computer Architecture and VM Design</p>
-  <b>💡Currently experimenting with a new project -- Stay Tuned! 💡</b>
+  <h3>💡Currently experimenting with a new project -- Stay Tuned! 💡</h3>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
