@@ -12,7 +12,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dark">
 </div>
 <div align="center">
-  <p>📚 I am currently learning about Computer Architecture </p>
+  <p>📚 I am currently learning about Computer Architecture qnd virtualization 📚</p>
   <h3>💡Developing a Virtual Machine💡</h3>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
