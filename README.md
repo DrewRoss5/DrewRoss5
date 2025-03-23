@@ -30,6 +30,6 @@
 <div align="center">
   <div>
     <a href="mailto: drew.ottesen@protonmail.com"> <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-    <p>drew.ottesen@protonmail.com</p>
+    <a href="https://discordapp.com/users/400019164003041284"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   </div>
 </div>
