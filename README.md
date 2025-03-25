@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=donut&theme=dark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=dracula">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
 </div>
 <div align="center">
   <p>📚 I am currently learning about Computer Architecture and virtualization 📚</p>
