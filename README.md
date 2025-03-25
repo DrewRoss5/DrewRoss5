@@ -6,10 +6,8 @@
 
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=compact&theme=dark">
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrewRoss5&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&layout=donut&theme=dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=dracula">  
 </div>
 <div align="center">
   <p>📚 I am currently learning about Computer Architecture and virtualization 📚</p>
