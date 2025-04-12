@@ -10,7 +10,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
 </div>
 <div align="center">
-  <p>📚 I am currently learning about Computer Architecture and virtualization 📚</p>
+  <p>📚 I am currently learning about APIs 📚</p>
   <h3>💡Developing a Virtual Machine💡</h3>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
