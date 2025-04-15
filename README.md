@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <p>📚 I am currently learning about APIs 📚</p>
-  <h3>💡Developing a Virtual Machine💡</h3>
+  <h3>💡Experimenting with a new project -- Stay Tuned!💡</h3>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
