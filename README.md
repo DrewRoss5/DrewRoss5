@@ -10,8 +10,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
 </div>
 <div align="center">
-  <p>📚 I am currently learning more about webscraping</p>
-  <p>🔥 Porting my password cracker to C++ on the side</p>
+  <p>📚 I am currently learning more about API Design</p>
+  <p>✨ Currently experimenting with a new project - Stay tuned! ✨</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
 <div align="center">
