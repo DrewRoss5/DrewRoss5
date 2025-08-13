@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi, I'm Drew
 </h1>
-<p align="center">🎓 Sophomore CS student at Weber State University</p>
+<p align="center">Computer Science Student with an interest in Cybersecurity and AI/ML</p>
 <div align="center">
 
 </div>
