@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi, I'm Drew
 </h1>
-<p align="center">Computer Science Student with an interest in Cybersecurity and AI/ML</p>
+<p align="center">Computer Science Student with an interest AI/ML and Compiler/Interpreter Design</p>
 <div align="center">
 
 </div>
@@ -10,7 +10,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
 </div>
 <div align="center">
-  <p>📚 Working through the fast.ai deep learning course, and learning about API Design </p>
+  <p>📚 Developing a programming language called EvoLang </p>
   <p>✨ Currently experimenting with a new project - Stay tuned! ✨</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
