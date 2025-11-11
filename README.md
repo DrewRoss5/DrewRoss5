@@ -10,7 +10,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
 </div>
 <div align="center">
-  <p>📚 Developing a programming language called EvoLang </p>
   <p>✨ Currently experimenting with a new project - Stay tuned! ✨</p>
 </div>
 <h2 align="center">Tools and Frameworks:</h2>
