@@ -4,7 +4,7 @@
 <h2 align="center">
   Welcome to my profile!
 </h2>
-<p align="center">Computer Science Student with an interest Compiler/Interpreter Design and Distributed Systems</p>
+<p align="center">Computer Science Student with an interest Compiler/Interpreter Design and Cybersecurity</p>
 <div align="center">
 
 </div>
@@ -52,7 +52,7 @@
     <tr>
       <td>Research Interests:</td>
       <td><img src="https://img.shields.io/badge/Compiler_Design-8A2BE2"</img>
-      <img src="https://img.shields.io/badge/Distributed_Systems-8A2BE2"</img></td>
+      <img src="https://img.shields.io/badge/Security-8A2BE2"</img></td>
     </tr>
   </table>
   <h2 align="center">Activity</h2>
