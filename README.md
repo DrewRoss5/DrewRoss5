@@ -9,7 +9,7 @@
 
 </div>
 <div align="center">
-  <p>✨ Currently experimenting with a new project - Stay tuned! ✨</p>
+  <p>✨ Currently experimenting with a VM Design - Stay tuned! ✨</p>
 </div>
 <div>
   <h2 align="center">Skills/Knowledge:</h2>
