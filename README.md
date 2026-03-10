@@ -40,6 +40,7 @@
         <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
       </td>
     </tr>
     <tr>
