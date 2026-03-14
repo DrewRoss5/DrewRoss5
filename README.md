@@ -6,7 +6,6 @@
 </h2>
 <p align="center">Computer Science Student with an interest Compiler/Interpreter Design and Cybersecurity</p>
 <div align="center">
-
 </div>
 <div align="center">
   <p>🌱 I am currently learning about Numpy and regression models using Scikit-learn</p>
@@ -57,6 +56,10 @@
       <img src="https://img.shields.io/badge/Security-8A2BE2"</img></td>
     </tr>
   </table>
+  <h2 align="center">Breakdown of my public repos by language:</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&theme=dark">
+  </div>
   <h2 align="center">Activity</h2>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
