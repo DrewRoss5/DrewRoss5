@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <p>🌱 I am currently learning about Numpy and regression models using Scikit-learn</p>
-  <p>✨ Experimenting with a VM Design - Stay tuned! ✨</p>
+  <p>🦀 Practicing more in rust 🦀</p>
 </div>
 <div>
   <h2 align="center">Skills/Knowledge:</h2>
