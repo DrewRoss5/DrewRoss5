@@ -4,12 +4,11 @@
 <h2 align="center">
   Welcome to my profile!
 </h2>
-<p align="center">Computer Science Student with an interest Compiler/Interpreter Design and Cybersecurity</p>
+<p align="center">Computer Science Student with an interest Compiler/Interpreter Design/p>
 <div align="center">
 </div>
 <div align="center">
-  <p>🌱 I am currently learning about Numpy and regression models using Scikit-learn</p>
-  <p>🦀 Practicing more in rust 🦀</p>
+  <p>🌱 I am currently learning about Data Science and Machine Learning</p>
 </div>
 <div>
   <h2 align="center">Skills/Knowledge:</h2>
