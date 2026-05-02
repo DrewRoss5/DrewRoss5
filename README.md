@@ -53,8 +53,9 @@
     </tr>
     <tr>
       <td>Research Interests:</td>
-      <td><img src="https://img.shields.io/badge/Compiler_Design-8A2BE2"</img>
-      <img src="https://img.shields.io/badge/Security-8A2BE2"</img></td>
+      <td><img src="https://img.shields.io/badge/Compiler_Design-2222AA"</img>
+      <img src="https://img.shields.io/badge/Machine_Learning-22AA22"</img>
+      <img src="https://img.shields.io/badge/Security-AA2222"</img></td>
     </tr>
   </table>
   <h2 align="center">Breakdown of my public repos by language:</h2>
