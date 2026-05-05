@@ -4,7 +4,7 @@
 <h2 align="center">
   Welcome to my profile!
 </h2>
-<p align="center">Computer Science Student with an interest Compiler/Interpreter Design/p>
+<p align="center">Computer Science Student with an interest Compiler/Interpreter Design</p>
 <div align="center">
 </div>
 <div align="center">
