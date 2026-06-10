@@ -8,7 +8,7 @@
 <div align="center">
 </div>
 <div align="center">
-  <p>🌱 I am currently learning about Data Science and Machine Learning</p>
+  <p>🌱 I am currently learning more about LLVM</p>
 </div>
 <div>
   <h2 align="center">Skills/Knowledge:</h2>
