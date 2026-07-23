@@ -60,7 +60,7 @@
   </table>
   <h2 align="center">Breakdown of my public repos by language:</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewRoss5&theme=dark">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrewRoss5&theme=dark">
   </div>
   <h2 align="center">Activity</h2>
   <div align="center">
