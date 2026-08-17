@@ -61,10 +61,6 @@
   <div align="center">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrewRoss5&theme=dark">
   </div>
-  <h2 align="center">Activity</h2>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrewRoss5&theme=high-contrast">  
-  </div>
 </div>
 <h2 align="center">Contact:</h2>
 <div align="center">
