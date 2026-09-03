@@ -53,7 +53,7 @@
     <tr>
       <td>Research Interests:</td>
       <td><img src="https://img.shields.io/badge/Compiler_Design-2222AA"</img>
-      <img src="https://img.shields.io/badge/Machine_Learning-22AA22"</img>
+      <img src="https://img.shields.io/badge/Data Science-22AA22"</img>
       <img src="https://img.shields.io/badge/Security-AA2222"</img></td>
     </tr>
   </table>
