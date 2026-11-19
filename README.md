@@ -4,11 +4,11 @@
 <h2 align="center">
   Welcome to my profile!
 </h2>
-<p align="center">MSCS Student with an interest Compiler/Interpreter Design</p>
+<p align="center">MSCS Student with an interest in Low Level Systems and Data Science</p>
 <div align="center">
 </div>
 <div align="center">
-  <p>🌱 I am currently learning more about LLVM</p>
+  <p>🌱 I am currently learning more about Neural Networks and Pytorch</p>
 </div>
 <div>
   <h2 align="center">Skills/Knowledge:</h2>
